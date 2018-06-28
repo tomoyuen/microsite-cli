@@ -1,0 +1,21 @@
+{
+  "name": "microsite-cli",
+  "version": "0.0.1",
+  "description": "microsite generator",
+  "main": "index.js",
+  "bin": {
+    "microsite": "./bin/index.js"
+  },
+  "author": "tomoyuen",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.2.5",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "inquirer": "^6.0.0"
+  }
+}

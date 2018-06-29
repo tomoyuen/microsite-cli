@@ -4,7 +4,8 @@
   "description": "microsite generator",
   "main": "index.js",
   "bin": {
-    "microsite": "./bin/index.js"
+    "microsite": "./bin/index.js",
+    "microsite-create": "./bin/microsite-create.js"
   },
   "author": "tomoyuen",
   "license": "ISC",

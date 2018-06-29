@@ -1,6 +1,6 @@
 {
   "name": "microsite-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "microsite generator",
   "main": "index.js",
   "bin": {

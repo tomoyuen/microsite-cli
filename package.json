@@ -7,6 +7,10 @@
     "microsite": "./bin/index.js",
     "microsite-create": "./bin/microsite-create.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoyuen/microsite-cli.git"
+  },
   "author": "tomoyuen",
   "license": "ISC",
   "devDependencies": {
